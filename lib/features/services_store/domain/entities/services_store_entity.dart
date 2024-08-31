@@ -1,4 +1,4 @@
-import 'package:clean_architecture/features/services_store/domain/service_entity.dart';
+import 'package:clean_architecture/features/services_store/domain/entities/service_entity.dart';
 import 'package:equatable/equatable.dart';
 
 class ServicesStoreEntity extends Equatable {
